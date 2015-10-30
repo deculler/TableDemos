@@ -1,0 +1,83 @@
+OBJECTID,NAME,POLY_TYP,MBL_UNIT,Address,Hyperlink,Shape_area,Shape_len
+1,King School Park,Park,SD,Hopkins Street east of Colusa Ave,http://www.cityofberkeley.info/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=12650,15246.026695200000177,512.113787200000047
+2,Adventure Playground,Park,7,"162 University Avenue, Berkeley Marina",http://www.cityofberkeley.info/ContentDisplay.aspx?id=8656,3453.199238260000129,239.989519588999997
+3,Shorebird Park,Park,7,"160 University Avenue, Berkeley Mariina",http://www.cityofberkeley.info/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=12876,25378.617920600001526,649.515559688000053
+4,Cesar Chavez  ( Protected Natural area),Park,7,"11 Spinnaker Wy, North of west end of Uni., Marina",http://www.cityofberkeley.info/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=12102,57995.423719899998105,1143.672723169999927
+5,Cesar Chavez  (Dog Park),Park,7,"11 Spinnaker Wy, North of west end of Uni., Marina",http://www.cityofberkeley.info/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=12102,59936.733576400001766,994.929510662999974
+6,Cesar Chavez Park,Park,7,"11 Spinnaker Wy, North of west end of Uni., Marina",http://www.cityofberkeley.info/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=12102,234418.114115000003949,2754.749919079999927
+7,Horseshoe Park,Park,7,"101 Seawall Drive, Berkeley Marina",http://www.cityofberkeley.info/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=12608,3336.566157990000193,232.791885439999987
+8,Halcyon Commons Park,Park,2,Center of Halcyon Court at Prince Street,http://www.cityofberkeley.info/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=12586,929.15522334000002,150.956017738000014
+9,Greg Brown Mini-Park,Park,2,1907 Harmon Street,http://www.cityofberkeley.info/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=12566,1864.742127550000077,277.444509734000007
+10,Aquatic Park,Park,3,"80  Bolivar Drive, at the foot of Bancroft Way",http://www.cityofberkeley.info/ContentDisplay.aspx?id=8656,54525.220480099997076,937.825520901000004
+11,Cragmont Park,Park,1,"960 Regal Rd, at Easter Way",http://www.cityofberkeley.info/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=12130,12807.38445160000083,470.146030321000012
+12,Dorothy Bolte Park,Park,1,540 Spruce Street at Michigan Avenue,http://www.cityofberkeley.info/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=12214,4716.019763520000197,289.006003204000024
+13,George Florence Park,Park,1,2121 Tenth Street between Allston and Addison,http://www.cityofberkeley.info/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=12496,2001.8103669300001,179.625263372000006
+14,Greg Brown Park,Park,2,1907 Harmon Street,http://www.cityofberkeley.info/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=12566,2182.704678839999815,278.472018602999981
+15,Harrison Park,Park,3,1100 4th Street  at Harrison Street,http://www.cityofberkeley.info/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=12594,43624.192809100000886,879.728825504000042
+16,James Kenney Park,Park,3,1720 Eighth Street between Delaware and Virginia,http://www.cityofberkeley.info/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=12620,14902.615096699999413,526.825674402999994
+17,Karl Linn Garden,Park,1,Karl Linn Garden,N/A,567.735939573999985,144.390418149999988
+18,Ohlone Park - Milvia to Bonita,Park,1,on Hearst Ave from Milvia to Sac Street,http://www.cityofberkeley.info/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=12716,3347.371780840000156,264.136840233999976
+19,Solano Peralta Park,Park,1,1559 Solano Ave at Peralta and Capistrano,http://www.cityofberkeley.info/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=12894,554.486894617999951,98.901547091799998
+20,Strawberry Creek Park,Park,3,1260 Allston Way,http://www.cityofberkeley.info/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=12900,14103.659808099999282,901.589488053999958
+21,George Florence Park,Park,4,2121 Tenth Street between Allston and Addison,http://www.cityofberkeley.info/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=12496,2018.34054601999992,180.443141069999996
+22,Bateman Mall Park,Park,2,"3027 Colby Street, near Prince Street",http://www.cityofberkeley.info/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=12030,2235.64380489999985,193.025276297999994
+23,Marina Mall,Park,7,"201 University Ave, Berkeley Marina",http://www.cityofberkeley.info/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=12696,503.539264328000002,90.4975639261
+24,Live Oak Park,Park,1,1301 Shattuck Avenue,http://www.cityofberkeley.info/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=12676,20024.448071999999229,846.977559742000039
+25,Virginia-McGee Tot Lot,Park,1,1644 Virginia Street,http://www.cityofberkeley.info/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=12936,1701.902361359999986,164.122924387000012
+26,UCB - People's Park,Park,UC,2556 Haste Street,http://www.cityofberkeley.info/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=12760,11116.06025149999914,436.086477576999982
+27,Harrison Skate Park,Park,3,1100 4th Street  at Harrison Street,http://www.cityofberkeley.info/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=12594,1983.312843650000104,190.345715023999986
+28,63rd Street Mini-Park,Park,2,1615 63rd Street between King and California,http://www.cityofberkeley.info/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=12886,770.268591889000049,143.593354438000006
+29,Aquatic Park,Park,3,"80  Bolivar Drive, at the foot of Bancroft Way",http://www.cityofberkeley.info/ContentDisplay.aspx?id=8656,181220.699544000002788,1998.507770870000058
+30,Aquatic Park,Park,3,"80  Bolivar Drive, at the foot of Bancroft Way",http://www.cityofberkeley.info/ContentDisplay.aspx?id=8656,122644.152591000005486,1923.912638539999989
+31,Aquatic Park,Park,3,"80  Bolivar Drive, at the foot of Bancroft Way",http://www.cityofberkeley.info/ContentDisplay.aspx?id=8656,285.274910272,68.662224807399994
+32,Aquatic Park,Park,3,"80  Bolivar Drive, at the foot of Bancroft Way",http://www.cityofberkeley.info/ContentDisplay.aspx?id=8656,2703.623932640000021,344.896431430000007
+33,Aquatic Park,Park,3,"80  Bolivar Drive, at the foot of Bancroft Way",http://www.cityofberkeley.info/ContentDisplay.aspx?id=8656,1112.187425659999917,176.788280133000001
+34,Aquatic Park,Park,3,"80  Bolivar Drive, at the foot of Bancroft Way",http://www.cityofberkeley.info/ContentDisplay.aspx?id=8656,2040.89451852000002,233.631118678000007
+35,Aquatic Park,Park,3,"80  Bolivar Drive, at the foot of Bancroft Way",http://www.cityofberkeley.info/ContentDisplay.aspx?id=8656,4407.963142659999903,287.591039168999998
+36,Aquatic Park,Park,3,"80  Bolivar Drive, at the foot of Bancroft Way",http://www.cityofberkeley.info/ContentDisplay.aspx?id=8656,6320.790988749999997,885.121980011000005
+37,Aquatic Park,Park,3,"80  Bolivar Drive, at the foot of Bancroft Way",http://www.cityofberkeley.info/ContentDisplay.aspx?id=8656,7492.15744401000029,569.10316155199996
+38,Aquatic Park,Park,3,"80  Bolivar Drive, at the foot of Bancroft Way",http://www.cityofberkeley.info/ContentDisplay.aspx?id=8656,932.933199218000027,125.659458361999995
+39,Aquatic Park,Park,3,"80  Bolivar Drive, at the foot of Bancroft Way",http://www.cityofberkeley.info/ContentDisplay.aspx?id=8656,1921.946643029999905,185.786142963000003
+40,Ashby Place Park,Park,2,Ashby Place Park,N/A,2501.502716989999954,411.812115826000024
+41,BART - Short Street Park / North,Park,3,BART - Short Street Park / North,N/A,165.68541788600001,50.187673425500002
+42,Bay Trail - Beach and University Avenue Ped Bridge,Park,3,West I-80 from Emeryville to Richmond,http://www.cityofberkeley.info/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=12960,60751.428069699999469,4269.842563430000155
+43,Becky Temko Tot Park,Park,2,2424 Roosevelt St bet. Dwight and Channing,http://www.cityofberkeley.info/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=12036,635.611370556999987,111.414324200999999
+44,"Berkeley Lawn Bowling Club - Greens, Clubhouse",Park,3,"Berkeley Lawn Bowling Club - Greens, Clubhouse",N/A,5202.782200010000452,411.144712658999993
+45,Charlie Dorr Mini-Park,Park,3,2208 Acton Street between Allston and Bancroft,http://www.cityofberkeley.info/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=12112,951.560638808000022,149.387285324000004
+46,Berkeley Rose Garden,Park,1,"1200  Euclid Avenue, across from Codornices Park",http://www.cityofberkeley.info/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=12048,15167.410385200000746,653.490273749000039
+47,Codornices Park,Park,1,"1201 Euclid Avenue, across from Rose Garden",http://www.cityofberkeley.info/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=12118,44966.881594500002393,914.349021648999951
+48,Berkeley Way Mini Park,Park,3,"1294 Berkeley Way, at West Street",http://www.cityofberkeley.info/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=12054,2088.434060950000003,238.773044578999986
+49,Cedar-Rose Park,Park,1,1300 Rose Street between Hopkins and Cedar Streets,http://www.cityofberkeley.info/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=12072,19551.799430800001574,1053.953532459999906
+50,Contra Costa Rock Park,Park,1,869-A Contra Costa Ave bet. Los Angeles & Yosemite,http://www.cityofberkeley.info/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=12120,693.67390031299999,108.441687712999993
+51,Frederick Park,Park,1,780 Arlington Avenue at Yosemite Road,http://www.cityofberkeley.info/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=12220,921.58731861800004,126.535516565999998
+52,Great Stoneface Park,Park,1,"1930 Thousand Oaks Blvd, at Yosemite Rd",http://www.cityofberkeley.info/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=12556,3208.656029499999931,215.778961263000014
+53,Glendale - La Loma Park,Park,1,1310 La Loma at Glendale Avenue,http://www.cityofberkeley.info/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=12504,22877.421153600000252,793.090258703000018
+54,Grizzly Peak Park,Park,1,50 Whitaker Ave between Miller and Sterling,http://www.cityofberkeley.info/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=12570,1113.73067927000011,145.881235131000011
+55,Grotto Rock Park,Park,1,"879 Santa Barbara Road, north of Indian Rock Ave",http://www.cityofberkeley.info/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=12572,1576.214474560000099,164.520268358999999
+56,YAP & Grove Street Park,Park,2,1730 Oregon Street at Martin Luther King Jr. Way,http://www.cityofberkeley.info/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=12580,11663.58859510000002,507.430730207000011
+57,Haskell-Mabel Mini Park,Park,3,1255 Haskell St at the Corner of Haskell and Mabel,http://www.cityofberkeley.info/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=12604,469.981865249999998,93.397661126900005
+58,Indian Rock Park,Park,1,950  Indian Rock Avenue at Shattuck Avenue,http://www.cityofberkeley.info/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=12614,5568.656216170000334,429.438088300999993
+70,Old City Hall Complex,Park,2,Old City Hall Complex,N/A,2614.614724529999876,301.923011594000002
+71,Presentation Park,Park,2,2199 California Street at  Allston Way,http://www.cityofberkeley.info/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=12764,915.213753730999997,118.126209016999994
+72,Prince Street Mini Park,Park,2,1631 Prince Street beetween California and King,http://www.cityofberkeley.info/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=12772,1792.597761060000039,169.481239912999996
+59,John Hinkel Park,Park,1,41 Somerset Avenue bet Southampton and San Diego,http://www.cityofberkeley.info/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=12628,19190.81574510000064,776.850251063999963
+60,M L King Jr.  Civic Center Park,Park,2,2151 Martin Luther King Jr. Way,http://www.cityofberkeley.info/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=12700,11338.341931099999783,639.890646571000048
+61,Monterey - Colusa Park,Park,1,Monterey - Colusa Park,N/A,460.089467684999988,106.389222380000007
+62,Monkey Island Park,Park,2,Claremont Boulevard at Oak Knoll Terrace,http://www.cityofberkeley.info/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=12704,1160.736486380000088,239.744913846000003
+63,Mortar Rock Park,Park,1,901 Indian Rock Avenue at San Diego Road,http://www.cityofberkeley.info/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=12708,1701.009906199999932,158.523897258999995
+64,North Transition Parkway - Gardens,Park,1,North Transition Parkway - Gardens,N/A,2368.835286989999986,322.546759396000027
+65,Ohlone Greenway - Hopkins to Gilman,Park,1,Ohlone Park East at 1933 Hearst Ave,http://www.cityofberkeley.info/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=12716,4029.232797380000193,670.577085044
+66,Ohlone Greenway - Gilman to Santa Fe,Park,1,Ohlone Park West at 1701 Hearst Avenue,http://www.cityofberkeley.info/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=12716,2014.104512310000018,252.457614583999998
+67,Ohlone Greenway - Santa Fe to Albany,Park,1,on Hearst Ave from Milvia to Sac Street,http://www.cityofberkeley.info/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=12716,1184.74066414999993,173.339825899000004
+68,Oak Park,Park,2,35 Domingo Avenue and El Camino Real,http://www.cityofberkeley.info/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=12714,1245.596355079999967,149.343150707999996
+69,Ohlone Park - MLK to Sacramento,Park,1,on Hearst Ave from Milvia to Sac Street,http://www.cityofberkeley.info/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=12716,38102.178004300003522,1917.721265890000041
+73,Remillard Park,Park,1,80 Poppy Lane at Keeler Avenue and Miller Avenue,http://www.cityofberkeley.info/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=12788,7637.517245670000193,508.978006219999997
+74,Thousand Oaks School Park,Park,SD,1780 Tacoma Ave. at Ensenada Ave,http://www.cityofberkeley.info/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=12922,5402.759258789999876,302.678239999000027
+75,Willard Park,Park,2,"2730 Hillegass Avenue,  at Derby Street",http://www.cityofberkeley.info/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=12952,12073.869894600000407,446.954585226999995
+76,San Pablo Park,Park,3,2800 Park Street between Russell and Ward Streets,http://www.cityofberkeley.info/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=12844,45842.832876400003443,917.15628377400003
+77,Malcolm X School Park,Park,SD,"3081 King Street, near Ashby Ave and Ellis",http://www.cityofberkeley.info/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=12692,3640.424109219999991,244.441817012000001
+78,Le Conte School Park,Park,SD,"2221 Russell Street, between Ellsworth and Fulton",http://www.cityofberkeley.info/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=12668,4387.578028789999735,286.155649745999995
+79,Washington School Park,Park,SD,"2300 Martin Luther King Jr. Way, 94704",http://www.cityofberkeley.info/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=12946,2470.694417409999915,203.912410698000002
+80,Rosa Parks School Park,Park,SD,"920 Allston Way, 94710",http://www.cityofberkeley.info/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=12794,15161.782718500000556,588.002649952999946
+81,John Muir School Park,Park,SD,"2955 Claremont Ave., 94705",http://www.cityofberkeley.info/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=12636,20701.011152399998537,603.452146956999968
+82,Terrace View Park,Park,1,1421 Queens Road near Fairlawn Drive,http://www.ci.berkeley.ca.us/ContentDisplay.aspx?id=12912,3706.698313270000199,258.312320716999977

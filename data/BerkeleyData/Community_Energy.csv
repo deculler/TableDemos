@@ -1,0 +1,85 @@
+Year,Units,Sector,Quantity
+2000,MWh,Commercial,384066.32
+2001,MWh,Commercial,388171.81
+2002,MWh,Commercial,385872.62
+2003,MWh,Commercial,376920.47
+2004,MWh,Commercial,374267.73
+2005,MWh,Commercial,369509.74
+2006,MWh,Commercial,372502.54
+2007,MWh,Commercial,377181.16
+2008,MWh,Commercial,364954.29
+2009,MWh,Commercial,349066.45
+2010,MWh,Commercial,354154.42
+2011,MWh,Commercial,360121.73
+2012,MWh,Commercial,358014.85
+2013,MWh,Commercial,355809.80
+2000,MWh,Municipal,13111.52
+2001,MWh,Municipal,13266.81
+2002,MWh,Municipal,14135.69
+2003,MWh,Municipal,14186.46
+2004,MWh,Municipal,14817.03
+2005,MWh,Municipal,14321.13
+2006,MWh,Municipal,14648.87
+2007,MWh,Municipal,15018.15
+2008,MWh,Municipal,15083.05
+2009,MWh,Municipal,14811.23
+2010,MWh,Municipal,14636.01
+2011,MWh,Municipal,14865.91
+2012,MWh,Municipal,14932.60
+2013,MWh,Municipal,15410.82
+2000,MWh,Residential,194200.52
+2001,MWh,Residential,192093.41
+2002,MWh,Residential,189986.29
+2003,MWh,Residential,187879.17
+2004,MWh,Residential,185772.05
+2005,MWh,Residential,183489.52
+2006,MWh,Residential,184958.19
+2007,MWh,Residential,182980.69
+2008,MWh,Residential,178964.02
+2009,MWh,Residential,177754.95
+2010,MWh,Residential,180474.10
+2011,MWh,Residential,179218.37
+2012,MWh,Residential,175136.68
+2013,MWh,Residential,169330.93
+2000,Therms x 1000,Commercial,15064.00
+2001,Therms x 1000,Commercial,15353.00
+2002,Therms x 1000,Commercial,15760.00
+2003,Therms x 1000,Commercial,16165.00
+2004,Therms x 1000,Commercial,16552.00
+2005,Therms x 1000,Commercial,17133.00
+2006,Therms x 1000,Commercial,17651.00
+2007,Therms x 1000,Commercial,18086.00
+2008,Therms x 1000,Commercial,17221.00
+2009,Therms x 1000,Commercial,16344.00
+2010,Therms x 1000,Commercial,16737.00
+2011,Therms x 1000,Commercial,18235.00
+2012,Therms x 1000,Commercial,17564.00
+2013,Therms x 1000,Commercial,16786.92
+2000,Therms x 1000,Municipal,285.01
+2001,Therms x 1000,Municipal,296.84
+2002,Therms x 1000,Municipal,304.76
+2003,Therms x 1000,Municipal,274.96
+2004,Therms x 1000,Municipal,289.40
+2005,Therms x 1000,Municipal,272.58
+2006,Therms x 1000,Municipal,290.75
+2007,Therms x 1000,Municipal,287.05
+2008,Therms x 1000,Municipal,292.25
+2009,Therms x 1000,Municipal,281.27
+2010,Therms x 1000,Municipal,283.63
+2011,Therms x 1000,Municipal,307.54
+2012,Therms x 1000,Municipal,300.78
+2013,Therms x 1000,Municipal,287.79
+2000,Therms x 1000,Residential,23189.73
+2001,Therms x 1000,Residential,22540.33
+2002,Therms x 1000,Residential,21890.93
+2003,Therms x 1000,Residential,21241.53
+2004,Therms x 1000,Residential,20592.13
+2005,Therms x 1000,Residential,19931.76
+2006,Therms x 1000,Residential,20676.59
+2007,Therms x 1000,Residential,20314.52
+2008,Therms x 1000,Residential,19783.06
+2009,Therms x 1000,Residential,19788.63
+2010,Therms x 1000,Residential,20603.06
+2011,Therms x 1000,Residential,21103.61
+2012,Therms x 1000,Residential,19862.43
+2013,Therms x 1000,Residential,19372.91
